@@ -1,4 +1,4 @@
-This school assignment is not worked on anymore since it has been graded (vg) by the teacher. It is not working since the things I used with Azure has been removed. Here is (in Swedish) the requirements for the assignment and I had one month to learn, code and complete the assignment. 
+This school assignment is not worked on anymore since it has been graded (vg) by the teacher. It is not working since the things I used with Azure has been removed. Here are (in Swedish) the requirements for the assignment and I had one month to learn, code and complete the assignment. 
 
 För att uppnå godkänt (G) på denna inlämningsuppgift ska följande kriterier uppnås:
 
